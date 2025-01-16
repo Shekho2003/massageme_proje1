@@ -30,7 +30,7 @@ E-posta ve Şifre Girin: Kullanıcılar, e-posta adreslerini ve şifrelerini gir
 
 Kayıt Olma Butonu: Kayıt olma butonuna tıklanıldığında, kullanıcı bilgileri veritabanına kaydedilir.
 
-
+![Image](https://github.com/user-attachments/assets/af4eebd3-abd3-454c-abfe-546f101fa314)
 
 Kısım 2: Giriş
 
@@ -38,13 +38,20 @@ E-posta ve Şifre Girin: Kullanıcılar daha önce kayıt oldukları e-posta adr
 
 Giriş Yap Butonu: Giriş yap butonuna tıklanıldığında, kullanıcı bilgilerinin doğruluğu kontrol edilir ve doğru bilgilerle giriş yapılır.
 
+![Image](https://github.com/user-attachments/assets/89f2f232-38a2-4b1a-bad2-90687ba52aa3)
+
 *2. Mesaj Yazma*
 
 Mesaj Gönderme: Giriş yapan kullanıcılar, uygulama czerinden istedikleri mesajı yazabilir ve gönderebilirler.
 
+![Image](https://github.com/user-attachments/assets/700bf9e2-bc87-4858-bad9-71123855a8bd)
+
+
 *3. Mesaj Cevaplama*
 
 Gelen Mesajlara Cevap Verme: Farklı bir kullanıcı tarafından giriş yapıldığında, bu kullanıcıya gelen mesajlar görüntülenebilir ve bu mesajlara cevap yazılabilir.
+
+![Image](https://github.com/user-attachments/assets/00fcb53f-1690-41f7-bbed-0d30d26962b4)
 
 
 ---
