@@ -18,9 +18,8 @@ Bu proje, Flutter ve Dart kullanılarak geliştirilmiş basit bir SMS mesajlaşm
 
 # Özellikler
 
-*1. Login Sayfası*
+## *1. Login Sayfası*
 
-![1.png](https://hizliresim.com/r0ol4uc)
 
 Login sayfasında kullanıcıların kayıt olabileceği ve giriş yapabileceği iki temel fonksiyon bulunmaktadır.
 
