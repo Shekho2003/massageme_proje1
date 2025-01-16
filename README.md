@@ -20,6 +20,7 @@ Bu proje, Flutter ve Dart kullanılarak geliştirilmiş basit bir SMS mesajlaşm
 
 ## *1. Login Sayfası*
 
+![Image](https://github.com/user-attachments/assets/00fcb53f-1690-41f7-bbed-0d30d26962b4)
 
 Login sayfasında kullanıcıların kayıt olabileceği ve giriş yapabileceği iki temel fonksiyon bulunmaktadır.
 
