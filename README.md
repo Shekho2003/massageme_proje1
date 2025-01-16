@@ -1,4 +1,4 @@
-# SMS Mesajlaşma Mobil Uygulaması
+![1](https://github.com/user-attachments/assets/441089c9-34a0-423a-93f4-2990951b0ae1)# SMS Mesajlaşma Mobil Uygulaması
 
 **Video:**
 
@@ -20,7 +20,7 @@ Bu proje, Flutter ve Dart kullanılarak geliştirilmiş basit bir SMS mesajlaşm
 
 *1. Login Sayfası*
 
-https://hizliresim.com/r0ol4uc
+![1.png](https://hizliresim.com/r0ol4uc)
 
 Login sayfasında kullanıcıların kayıt olabileceği ve giriş yapabileceği iki temel fonksiyon bulunmaktadır.
 
