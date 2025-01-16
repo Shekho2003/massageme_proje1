@@ -20,6 +20,8 @@ Bu proje, Flutter ve Dart kullanılarak geliştirilmiş basit bir SMS mesajlaşm
 
 *1. Login Sayfası*
 
+https://hizliresim.com/r0ol4uc
+
 Login sayfasında kullanıcıların kayıt olabileceği ve giriş yapabileceği iki temel fonksiyon bulunmaktadır.
 
 Kısım 1: Kırıt Olma
