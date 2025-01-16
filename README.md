@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/441089c9-34a0-423a-93f4-2990951b0ae1)# SMS Mesajlaşma Mobil Uygulaması
+# SMS Mesajlaşma Mobil Uygulaması
 
 **Video:**
 
