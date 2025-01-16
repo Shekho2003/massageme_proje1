@@ -24,11 +24,13 @@ Bu proje, Flutter ve Dart kullanılarak geliştirilmiş basit bir SMS mesajlaşm
 
 Login sayfasında kullanıcıların kayıt olabileceği ve giriş yapabileceği iki temel fonksiyon bulunmaktadır.
 
-Kısım 1: Kırıt Olma
+Kısım 1: Kayıt Olma
 
 E-posta ve Şifre Girin: Kullanıcılar, e-posta adreslerini ve şifrelerini girerek kayıt olabilirler.
 
-Kırıt Olma Butonu: Kayıt olma butonuna tıklanıldığında, kullanıcı bilgileri veritabanına kaydedilir.
+Kayıt Olma Butonu: Kayıt olma butonuna tıklanıldığında, kullanıcı bilgileri veritabanına kaydedilir.
+
+
 
 Kısım 2: Giriş
 
